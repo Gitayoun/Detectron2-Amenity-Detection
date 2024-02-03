@@ -29,7 +29,7 @@ Future work involves improving accuracy through dataset expansion, adding new am
 The project's impact extends beyond property management, potentially transforming inventory management across sectors, enhancing efficiency, safety, and operational processes in various industries.
 
 
-# Authors: Nilisha Makam Prashantha, Joshnadevi Vadapalli, Sangamithra Murugesan, Faiza Ayoun
+# Authors: Faiza Ayoun, Nilisha Makam Prashantha, Joshnadevi Vadapalli, Sangamithra Murugesan
 
 
 
